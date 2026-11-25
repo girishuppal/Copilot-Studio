@@ -22,48 +22,39 @@ Batch testing with multi-turn conversations, LLM-graded evaluation, and Excel-ba
 AI-generated evaluation rubrics that define consistent quality scoring criteria for agent responses
 >
 
-
-> ` ` <br/>
-XX
+> `Pipeline Testing` <br/>
+Automated quality gates integrated into your deployment pipeline — block releases that fail test thresholds
 >
 
-
-> ` ` <br/>
-XX
+> `Conversation KPI` <br/>
+Aggregated cross-agent performance metrics in Dataverse — complementing Copilot Studio's per-agent analytics with org-wide views
 >
 
-
-> ` ` <br/>
-XX
+> `Conversation Analyzer` <br/>
+Prompt-driven transcript analysis to identify patterns, escalation causes, and improvement opportunities across conversations
 >
 
-
-> ` ` <br/>
-XX
+> `Agent Value Summary` <br/>
+ROI dashboard that maps agent activity to business value for executive reporting
 >
 
-
-> ` ` <br/>
-XX
+> `Application Insights` <br/>
+Pre-built Application Insights integration for deep operational telemetry and custom monitoring dashboards
 >
 
-
-> ` ` <br/>
-XX
+> `SharePoint Sync` <br/>
+Automated synchronization of knowledge sources from SharePoint document libraries into agent configurations
 >
 
-
-> ` ` <br/>
-XX
->
-> ` ` <br/>
-XX
->
-> ` ` <br/>
-XX
+> `Webchat Playground` <br/>
+Custom webchat styling, embedding configuration, and interactive agent testing environment
 >
 
-> ` ` <br/>
-XX
+> `Adaptive Cards Gallery` <br/>
+Pre-built adaptive card templates for common conversational patterns and data presentation
+>
+
+> `PowerShield` <br/>
+Governed DLP connector access workflow — maker self-service requests, admin approval, and automatic policy creation
 >
 
