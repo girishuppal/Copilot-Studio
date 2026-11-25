@@ -9,3 +9,6 @@
 > ---
 <img width="1852" height="881" alt="image" src="https://github.com/user-attachments/assets/a4dd7709-5e66-40ec-bab4-4bb9b6d79e1c" />
 
+> Code View for modern workflow
+> ---
+<img width="1841" height="864" alt="image" src="https://github.com/user-attachments/assets/54f0de27-45ed-4edc-ba07-634e406d085a" />
